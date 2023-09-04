@@ -17,7 +17,6 @@ public class program3 {
         } catch (Throwable ex) {
             System.out.println("Что-то пошло не так...");
         }
-
     }
 
     public static void printSum(Integer a, Integer b) {
