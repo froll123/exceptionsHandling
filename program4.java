@@ -19,5 +19,5 @@ public class program4 {
         finally{
             scanner.close();
         }
-        }
     }
+}

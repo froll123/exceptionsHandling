@@ -1,7 +1,7 @@
 // 2
 
 public class program2 {
-    public static void main(String[] args){
+public static void main(String[] args){
         try {
         int[] intArray = new int[9];
         int d = 0;
@@ -10,7 +10,6 @@ public class program2 {
 } catch (ArithmeticException e) {
         System.out.println("Catching exception: " + e);
 }
-    
 }
 }
 
